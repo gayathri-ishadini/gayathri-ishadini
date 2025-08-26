@@ -1,11 +1,11 @@
-<h1 align="center"> Hi 👋,I'm Gayathri Ishadini</h1>h1>
+<h1 align="center"> Hi 👋,I'm Gayathri Ishadini</h1>
 <h3 align="center">💻Passionate Information Technology Student | Exploring Software Enginnering & Web Development 🚀</h3>
   
 ---
 ### 🌱About Me
- -🌱 I'm currently Learning **Artifical Intelligence (AI)**
+ -🌱 I'm currently Learning **Artifical Intelligence (AI)**<br>
  -📫 How to reach me:
- **gayathri.ishadini@gmail.com**
+ **gayathri.ishadini@gmail.com**<br>
  -⚡Fun fact: **Ctrl + Z is my best friend 😅**
 
  ---
