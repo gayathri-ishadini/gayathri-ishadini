@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Gayathri Ishadini👋
 
 <!--
 **gayathri-ishadini/gayathri-ishadini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
